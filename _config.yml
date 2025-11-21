@@ -9,11 +9,11 @@ name: Ariel OS
 author: Amit Merchant, Emmanuel Baccelli
 
 # Short bio or description (displayed in the header)
-description: Embedded Rust\nSoftware Stack
+description: Embedded Rust Software Stack
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: /images/reverie.png
-avatar: /images/ariel-os-avatar.png
+avatar: /images/ariel-os-avatar.svg
 
 #
 # Flags below are optional
