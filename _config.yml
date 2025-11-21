@@ -13,7 +13,7 @@ description: The Embedded Rust Software Stack
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: /images/reverie.png
-https://github.com/ariel-os/ariel-os/blob/main/book/src/figures/ariel-hexacube-orange-rounded.svg
+avatar: <img src="https://github.com/ariel-os/ariel-os/blob/main/book/src/figures/ariel-hexacube-orange-rounded.svg" /> 
 
 #
 # Flags below are optional
